@@ -22,16 +22,18 @@ SCOPE-XR builds perception-aware wireless networks for multi-user extended reali
   <a href="https://www.utexas.edu"><img src="https://scope-xr.github.io/assets/logos/ut-austin.svg" alt="UT Austin" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.vt.edu"><img src="https://scope-xr.github.io/assets/logos/virginia-tech.svg" alt="Virginia Tech" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.wisc.edu"><img src="https://scope-xr.github.io/assets/logos/uw-madison.png" alt="UW–Madison" height="48"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ericsson.com"><img src="https://scope-xr.github.io/assets/logos/ericsson.svg" alt="Ericsson" height="44"></a>
+  <a href="https://www.ericsson.com"><img src="https://scope-xr.github.io/assets/logos/ericsson.svg" alt="Ericsson" height="44"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openairinterface.org"><img src="https://scope-xr.github.io/assets/logos/openairinterface.png" alt="OpenAirInterface" height="40"></a>
 </p>
 
 | Institution | Team |
 |---|---|
 | **University of Georgia** (lead) | Haijian Sun (PI), Zhenlin An, Kyle Johnsen, Mehmet Kurum, WenZhan Song |
 | **The University of Texas at Austin** | Kaushik Chowdhury, Jeffrey G. Andrews |
-| **Virginia Tech** | Rose Qingyang Hu, Lingjia Liu, Harpreet S. Dhillon, Bo Ji |
+| **Virginia Tech** | Rose Qingyang Hu, Lingjia Liu, Harpreet S. Dhillon, Bo Ji, [Dr. Aloizio Da Silva](https://www.linkedin.com/in/aloizio/) |
 | **University of Wisconsin–Madison** | Feng Ye, Suman Banerjee, Joshua San Miguel |
 | **Ericsson** (industry partner) | Md Moin Uddin Chowdhury, Per Karlsson |
+| **OpenAirInterface** | [Irfan Ghauri](https://www.linkedin.com/in/irfan-ghauri-51001b2/) |
 
 ## Repositories
 
